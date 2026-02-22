@@ -65,7 +65,7 @@ git clone https://github.com/Debarghya654/Contact-Form
 2. Open folder
 
 ```
-cd contact-form
+cd Contact-Form
 ```
 
 3. Open **index.html** in browser
