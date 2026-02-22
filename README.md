@@ -1,4 +1,4 @@
-# 🌐 Modern Contact Form
+# 🌐 Contact Form
 
 A fully responsive and modern **Contact Form UI** built using **HTML, CSS, and JavaScript**.
 It features a premium dark gradient design, real-time validation, loading animation, and success messages.
