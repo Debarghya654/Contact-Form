@@ -59,7 +59,7 @@ contact-form/
 1. Clone the repository
 
 ```
-git clone [https://github.com/your-username/contact-form.git](https://github.com/Debarghya654/Contact-Form)
+git clone https://github.com/Debarghya654/Contact-Form
 ```
 
 2. Open folder
