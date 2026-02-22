@@ -38,11 +38,12 @@ This project is ideal for **portfolio websites**, **frontend practice**, and **G
 ## 📂 Project Structure
 
 ```
-contact-form/
+Contact-Form/
 │
 ├── index.html
 ├── style.css
 ├── script.js
+├── screenshot.png
 └── README.md
 ```
 
