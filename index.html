@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact Form</title>
+
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+
+            <h2>Contact Us</h2>
+
+            <form id="contactForm" action="" method="">
+
+                <div class="input-group">
+                    <label>Name *</label>
+                    <input type="text" id="name" placeholder="Enter your name">
+                    <span class="error" id="nameError"></span>
+                </div>
+
+
+                <div class="input-group">
+                    <label>Email *</label>
+                    <input type="text" id="email" placeholder="Enter your email">
+                    <span class="error" id="emailError"></span>
+                </div>
+
+
+                <div class="input-group">
+
+                    <label>Message *</label>
+
+                    <textarea id="message" maxlength="500" placeholder="Enter your message (max 500 characters)"></textarea>
+
+                    <div class="char-count">
+                        <span id="charCount">0</span>/500
+                    </div>
+
+                    <span class="error" id="messageError"></span>
+
+                </div>
+
+
+                <button type="submit" id="submitBtn">
+
+                    <span id="btnText">Send Message</span>
+
+                    <div class="spinner" id="spinner"></div>
+
+                </button>
+
+
+                <div class="success" id="successMsg"></div>
+
+            </form>
+
+        </div>
+
+        <script src="script.js"></script>
+
+    </body>
+</html>
